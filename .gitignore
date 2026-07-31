@@ -6,3 +6,8 @@ iso24817calc-venv/
 build/
 dist/
 release/
+
+# Xcode and Swift Package Manager machine-local state
+.DS_Store
+**/xcuserdata/
+**/.swiftpm/
